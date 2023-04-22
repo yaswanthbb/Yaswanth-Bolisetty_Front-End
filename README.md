@@ -92,3 +92,6 @@ WrappedListComponent.propTypes = {
     text: PropTypes.string.isRequired,
   })),
 };
+
+Output of the corrected Code :
+![image](https://user-images.githubusercontent.com/76676763/233772824-c1bbbc98-b8fc-4815-adf2-a907048c83d5.png)
